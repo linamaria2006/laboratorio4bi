@@ -1,0 +1,24 @@
+{
+  "data": [
+      {
+        "adult_mortality": 156.0,
+        "infant_deaths": 62,
+        "alcohol": 0.01,
+        "percentage_expenditure": 71.537829,
+        "hepatitis_B": 65.0,
+        "measles": 1154.0,
+        "bmi": 19.2,
+        "under_five_deaths": 83.0,
+        "polio": 6.0,
+        "total_expenditure": 8.16,
+        "diphtheria": 65.0,
+        "hiv_aids": 0.1,
+        "gdp": 584.25921,
+        "population": 978253.0,
+        "thinness_10_19_years": 17.2,
+        "thinness_5_9_years": 17.3,
+        "income_composition_of_resources": 479,
+        "schooling": 0.1
+      }
+    ]
+}
